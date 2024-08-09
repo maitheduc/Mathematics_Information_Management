@@ -37,7 +37,7 @@ $ npm install
    - Cài đặt XAMPP (nếu chưa có): Tải và cài đặt từ trang chủ XAMPP
    - Khởi động XAMPP và bật Apache và MySQL
    - Mở phpMyAdmin (thường là http://localhost/phpmyadmin/)
-   - Tạo một database mới (ví dụ: 'khoatinhoc')
+   - Tạo một database mới (ví dụ: 'khoatinhoc_new2')
    - Import file database từ thư mục ..\server\database\khoatinhoc_new2.sql
 
 4. Chạy migrations (nếu cần):
