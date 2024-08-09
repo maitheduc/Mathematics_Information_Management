@@ -84,7 +84,7 @@ $ php artisan serve
 
 ## Tác giả
 
-- Đinh Thị Nhật Diễn(DinhThiNhatDien)
+- Đinh Thị Nhật Diễn (DinhThiNhatDien)
 - Mai Thế Đức (MaiTheDuc)
 
 ## Giảng viên hướng dẫn
